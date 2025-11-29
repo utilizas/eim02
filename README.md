@@ -19,8 +19,8 @@
 
 El repositorio se encuentra desplegado en:
 
-- [![Vercel](https://vercelbadge.vercel.app/api/miguelmoreno/IA-TCA)](https://eim02.vercel.app/)
-- [![Netlify Status](https://api.netlify.com/api/v1/badges/xxxx/status)](https://eim02.netlify.app/)
+- [![Vercel](https://vercel.com/button)](https://eim02.vercel.app/)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/a88d5a68-d860-45a5-b0e4-186f4aacbca8/deploy-status)](https://app.netlify.com/projects/eim02/deploys)
 
 ## 📜 Licencia
 Este trabajo está disponible bajo licencia **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.  
