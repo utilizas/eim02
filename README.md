@@ -4,7 +4,7 @@
 > Este repositorio contiene el informe preliminar, materiales complementarios y código reproducible como contribución al proyecto **C-HUM-145-UGR23**, centrado en analizar la evidencia emergente sobre el impacto de la IAGen en la percepción de la imagen corporal y el riesgo de TCA en población adolescente. Incluye estrategias de búsqueda, tablas de extracción de datos, scripts en R/Quarto para análisis y visualización, así como apéndices metodológicos.
 
 ## 📂 Contenido
-- `manuscript/` → Documento principal en Quarto/HTML
+- `index.html/` → Documento principal en Quarto/HTML
 - `data/` → Tablas de extracción sistemática y datasets
 - `scripts/` → Código en R/Quarto para análisis y visualización
 - `appendices/` → Apéndices metodológicos (estrategias de búsqueda, instrumentos, código reproducible)
