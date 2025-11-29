@@ -19,8 +19,9 @@
 
 El repositorio se encuentra desplegado en:
 
-- [![Vercel](https://vercel.com/button)](https://eim02.vercel.app/)
 - [![Netlify Status](https://api.netlify.com/api/v1/badges/a88d5a68-d860-45a5-b0e4-186f4aacbca8/deploy-status)](https://app.netlify.com/projects/eim02/deploys)
+- [![Vercel App](https://img.shields.io/badge/Vercel-eim02.vercel.app-000000?logo=vercel&logoColor=white)](https://eim02.vercel.app/)
+
 
 ## 📜 Licencia
 Este trabajo está disponible bajo licencia **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.  
