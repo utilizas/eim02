@@ -16,9 +16,11 @@
 - Proponer agenda de investigación y medidas de mitigación
 
 ## 🚀 Despliegue
+
 El repositorio se encuentra desplegado en:
-- [![Vercel](https://vercelbadge.vercel.app/api/miguelmoreno/IA-TCA)](https://IA-TCA.vercel.app)
-- [![Netlify Status](https://api.netlify.com/api/v1/badges/xxxx/status)](https://IA-TCA.netlify.app)
+
+- [![Vercel](https://vercelbadge.vercel.app/api/miguelmoreno/IA-TCA)](https://eim02.vercel.app/)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/xxxx/status)](https://eim02.netlify.app/)
 
 ## 📜 Licencia
 Este trabajo está disponible bajo licencia **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.  
